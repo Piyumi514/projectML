@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776989325391",
+    "project_id": "ayucarefinalpro",
+    "storage_bucket": "ayucarefinalpro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776989325391:android:2a633e84687cd0a36cd23a",
+        "android_client_info": {
+          "package_name": "com.example.ayurcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACowZ68ppqPnInH-bhiWsCXy71UW5sknI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

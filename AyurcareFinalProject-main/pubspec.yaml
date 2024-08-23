@@ -1,0 +1,35 @@
+name: ayurcare
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^0.8.5+3
+  tflite: ^1.1.0
+  cupertino_icons: ^1.0.6
+  animate_do: ^3.3.4
+  flutter_native_splash: ^2.4.0
+  flutter_launcher_icons: ^0.13.1
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.20.0
+  flutter_bloc: ^8.1.6
+  cloud_firestore: ^4.17.5
+  firebase_storage: ^11.7.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/homeremedies/
+    - assets/leaf_classification_model.tflite
+    - assets/labels.txt
