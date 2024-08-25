@@ -1,0 +1,6 @@
+tensorflow
+fastapi
+PIL
+werkzeug
+numpy
+
